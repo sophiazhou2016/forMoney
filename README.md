@@ -7,4 +7,5 @@
 ## 准备基础
 ### https://www.processon.com/view/link/5f3a84ee5653bb06f2d3a095
 ## 如果保持学习的动力，真的很难得。
-### 算法4版（java语言）-> 用js 重写
+### 1）算法4版（java语言）-> 用js 重写
+### 2) 月为单位学习
